@@ -20,21 +20,21 @@ In this diagram, you can see where the previously built SR latch was modified, a
 that the S button represents the COIN button and the out Q LED represents the COIN indicator LED. In addition, a capacitor is added to acquire the desired
 delayed reset in the circuit along with two resistors to control the current flow the LEDs and capcitors. 
 
-## Circuit Showing Both Coin and Vend Set to Off "0"
+## Circuit Showing Both COIN and VEND Set to Off "0"
 
 ![off](https://github.com/user-attachments/assets/14dcaa3d-d644-4973-9b0d-cb9cfc56eda6)
 
 The circuit shows two inputs: a COIN and a VEND buttoN. Pressing COIN represents inserting a coin & pressing vend represents the machine doing the vending
 action of an item. In this case both of the buttons are set to OFF "0" therefore neither the COIN or VEND LEDs are lit up. 
 
-## Circuit Showing Coin set to On "1" and Vend Set to Off "0"
+## Circuit Showing COIN set to On "1" and VEND Set to Off "0"
 
 ![coin](https://github.com/user-attachments/assets/7c2b2605-c4ce-41c6-8ef7-cd737a3c097a)
 
 In this scenario, the COIN button is pressed and the input crosses the gates which causes an output of "1" or ON state in the COIN LED, which is why it is
 lit, however the VEND button isn't pressed, hence still in the OFF state "0".
 
-## Circuit Showing Coin set to On "1" and Vend Set to On "1"
+## Circuit Showing COIN set to On "1" and VEND Set to On "1"
 
 ![vend](https://github.com/user-attachments/assets/04b37ea9-f49b-49d2-aeff-53176f36e124)
 
