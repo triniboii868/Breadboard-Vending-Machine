@@ -1,11 +1,11 @@
 # Breadboard-Vending-Machine
 
 ## What is it? And how it works? 
-This vending machine circuit uses a NOR gate (7402) and AND gate (7408) to trigger an output which is frequently used in electronic appliances such <br>
-as vending machines. It is built upon the model of the SR Latch which takes inputs and called "Set" (S) and "Reset" (R) which can store a single binary <br>
-value (either 0 or 1), similar to how a vending machine remembers the selection you made by storing the corresponding product code until you press the <br>
+This vending machine circuit uses a NOR gate (7402) and AND gate (7408) to trigger an output which is frequently used in electronic appliances such
+as vending machines. It is built upon the model of the SR Latch which takes inputs and called "Set" (S) and "Reset" (R) which can store a single binary 
+value (either 0 or 1), similar to how a vending machine remembers the selection you made by storing the corresponding product code until you press the
 dispense button, essentially "setting" the machine to deliver that specific item; once the item is dispensed, the machine is essentially "reset" and 
-ready for a new selection. <br>
+ready for a new selection.
 
 ## Recall the Truth Table for the SR Latch Operation
 
